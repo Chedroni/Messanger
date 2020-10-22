@@ -1,0 +1,2 @@
+class ENCRYPTOR:
+    pass
