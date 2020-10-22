@@ -1,0 +1,2 @@
+class ServerReceiveHandler:
+    pass
